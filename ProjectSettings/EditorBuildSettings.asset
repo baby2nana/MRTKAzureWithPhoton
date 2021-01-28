@@ -8,7 +8,16 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Projects/AzurePun/Scenes/AzureSpatial.unity
     guid: 90107761f49a5894294d5c430c20535c
-  - enabled: 1
+  - enabled: 0
     path: Assets/Projects/AzurePun/Scenes/PUNNoAzure.unity
     guid: 66d1bc5c11bdb9d4d804483599b0a2aa
+  - enabled: 0
+    path: Assets/Projects/AzurePun/Scenes/Remoting.unity
+    guid: 3a80d3b529a73a5448822d2dc1221f3d
+  - enabled: 0
+    path: Assets/Projects/AzurePun/Scenes/AzureSpatialMy.unity
+    guid: 6f0ff30c9ddb2e04db05eee927e07c72
+  - enabled: 1
+    path: Assets/Projects/AzurePun/Scenes/PUNWithAzureBody.unity
+    guid: 5c377451a768b2b498917f36d079fe2a
   m_configObjects: {}
