@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Projects/AzurePun/Scenes/PUNWithAzureBody.unity
     guid: 5c377451a768b2b498917f36d079fe2a
+  - enabled: 0
+    path: Assets/Projects/AzurePun/Scenes/ClipModel.unity
+    guid: 633e1f8c9013b324c84220257cf95953
   m_configObjects: {}
